@@ -24,3 +24,5 @@ Tom Alex Smith - Server Founder/Admin
 Dan - Server Developer/Admin
 Zonary - Some kid that plays league/DJ
 Leo aka Giga_wulf - Some guy who loves airhorns/DJ
+
+@everyone
